@@ -1,6 +1,7 @@
 chromadb
 Flask
 Flask-Cors
+"Flask-Limiter[mongodb]"
 llama-index-core
 llama-index-readers-file
 llama-index-llms-ollama
